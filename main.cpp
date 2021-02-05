@@ -15,7 +15,7 @@ int main() {
     glfwWindowHint(GLFW_RESIZABLE, GL_FALSE);
 
     while(!glfwWindowShouldClose(win)){
-        glfwPollEvents();
+        glfwPollEvents(); // poll window events
     }
 
     glfwTerminate();
