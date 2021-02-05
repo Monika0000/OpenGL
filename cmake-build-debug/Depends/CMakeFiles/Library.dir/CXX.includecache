@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+J:/C++/OpenGL/Depends/OpenGL.cpp
+OpenGL.h
+J:/C++/OpenGL/Depends/OpenGL.h
+
+J:/C++/OpenGL/Depends/OpenGL.h
+
